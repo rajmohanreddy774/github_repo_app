@@ -1,0 +1,12 @@
+.box{
+    border: solid 1px ;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: grey;
+}
+.box1{
+    text-align: left;
+}
+h2 {
+    color: white;
+}
